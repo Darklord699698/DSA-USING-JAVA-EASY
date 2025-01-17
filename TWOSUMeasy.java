@@ -1,4 +1,4 @@
-class prb {
+class TWOSUMeasy {
     public int[] twoSum(int[] nums, int target) {
         // Iterate over the array to find two numbers that add up to the target
         for (int i = 0; i < nums.length; i++) {
@@ -14,7 +14,7 @@ class prb {
     }
 
     public static void main(String[] args) {
-        prb solution = new prb();
+        TWOSUMeasy solution = new TWOSUMeasy();
         int[] nums = {10, 20, 30};
         int target = 50;
         int[] result = solution.twoSum(nums, target);
