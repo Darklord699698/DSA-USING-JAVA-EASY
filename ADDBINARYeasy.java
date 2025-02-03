@@ -15,4 +15,3 @@ class ADDBINARYeasy {
         return result.reverse().toString();
     }
 }
-//
