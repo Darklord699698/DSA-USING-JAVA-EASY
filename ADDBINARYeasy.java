@@ -15,3 +15,4 @@ class ADDBINARYeasy {
         return result.reverse().toString();
     }
 }
+//ADDING TWO BINARY NUMBERS
